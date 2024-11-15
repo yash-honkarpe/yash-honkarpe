@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA, Web Development**
 
-- 💬 Ask me about **c++, Reactjs, JavaScript, HTML, CSS, Bootstrap**
+- 💬 Ask me about **C++,Core Java, JavaScript, HTML, CSS, Reactjs, Bootstrap**
 
 - 📫 How to reach me **yashhonkarpe65@gmail.com**
 
